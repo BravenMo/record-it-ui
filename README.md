@@ -1,4 +1,4 @@
-# record_it
+# record_it_ui
 A web application project that is used to record and review your entertainment. (Work in Progress)
 
 # Tech Stack:
